@@ -1,2 +1,3 @@
-# ocean_intella
-Offshore dynamics and CFD
+# Ocean Intella
+
+Offshore dynamics and CFD software.

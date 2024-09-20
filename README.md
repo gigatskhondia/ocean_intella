@@ -9,6 +9,7 @@ At present, it includes the following models:
 
 Please check my [blog](https://gigatskhondia.medium.com/) and [manuals](https://gigatskhondia.github.io/gigala/) for the specifics of the models and algorithms I use.
 
+To keep up to date with the project please check [Gigala](https://gigala.io/) page.
 
 #### If you like my project and want to support it, please consider doing any of the following: ####
 * Star this project

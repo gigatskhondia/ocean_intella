@@ -2,7 +2,7 @@
 
 Dynamics of offshore structures and CFD software. 
 
-At present, it includes the following models:
+At present, the software includes the following models:
 * PDE pipe
 * Pipelay profile optimization
 * Robotic pipe

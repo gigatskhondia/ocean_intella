@@ -1,7 +1,6 @@
 from deap import tools
 from deap import algorithms
 
-
 def eaSimpleWithElitism(population, toolbox, cxpb, mutpb, ngen, stats=None,
                         halloffame=None, verbose=__debug__):
     """This algorithm is similar to DEAP eaSimple() algorithm, with the modification that

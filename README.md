@@ -1,6 +1,6 @@
 # Ocean Intella
 
-Dynamics of offshore structures and CFD software. 
+Dynamics of offshore structures software. 
 
 At present, the software includes the following models:
 * PDE pipe

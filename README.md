@@ -1,6 +1,6 @@
 # Ocean Intella
 
-Dynamics of offshore structures and pipelay open source software. 
+Open source software for dynamics of offshore structures and pipelay. 
 
 At present, the software includes the following models:
 * PDE pipe

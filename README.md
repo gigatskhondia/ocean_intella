@@ -2,7 +2,7 @@
 
 Open source software for dynamics of offshore structures and pipelay. 
 
-## Caution: CURRENTLY UNDER DEVELOPMENT - not project ready solution. ##
+## Caution: CURRENTLY UNDER DEVELOPMENT - NOT PROJECT READY SOLUTION. ##
 
 At present, the software includes the following models:
 * PDE pipe (not validated)

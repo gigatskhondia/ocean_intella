@@ -1,6 +1,6 @@
 # Ocean Intella
 
-Open source software for dynamics of offshore structures and pipelay. 
+Open source software for dynamics of offshore pipelay. 
 
 ## Caution: CURRENTLY UNDER DEVELOPMENT - NOT PROJECT READY ##
 

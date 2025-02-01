@@ -2,12 +2,10 @@
 
 Open source software for dynamics of offshore pipelay. 
 
-## Caution: CURRENTLY UNDER DEVELOPMENT - NOT PROJECT READY ##
-
 At present, the software includes the following models:
-* PDE pipe (not validated)
+* PDE pipe (needs additional validation)
 * Pipelay profile optimization
-* Robotic pipe (not validated)
+* Robotic pipe (needs additional validation)
 
 Please check my [blog](https://gigatskhondia.medium.com/) and [manuals](https://github.com/gigatskhondia/ocean_intella/blob/main/docs/pdfs/marine_v3.pdf) for the specifics of the models and algorithms I use.
 

@@ -1,6 +1,7 @@
 # Open source software for dynamics of offshore pipelay
 
 At present, the software includes the following models:
+* OTEC pipe 
 * PDE pipe (needs additional validation)
 * Pipelay profile optimization
 * Robotic pipe (needs additional validation)

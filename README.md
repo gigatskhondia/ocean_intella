@@ -2,9 +2,9 @@
 
 At present, the software includes the following models:
 * OTEC pipe 
-* PDE pipe (needs additional validation)
+* PDE pipe 
 * Pipelay profile optimization
-* Robotic pipe (needs additional validation)
+* Robotic pipe 
 
 Please check my [blog](https://gigatskhondia.medium.com/) and [manuals](https://github.com/gigatskhondia/ocean_intella/blob/main/docs/pdfs/marine_v3.pdf) for the specifics of the models and algorithms I use.
 

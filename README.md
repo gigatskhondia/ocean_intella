@@ -6,7 +6,7 @@ At present, the software includes the following models:
 * Pipelay profile optimization
 * Robotic pipe 
 
-Please check my [blog](https://gigatskhondia.medium.com/) or [manuals](https://gigatskhondia.github.io/gigala/) or [ResearchGate](https://www.researchgate.net/profile/Giorgi-Tskhondia) for the specifics of the models and algorithms I use. 
+Please check my [Blog](https://gigatskhondia.medium.com/) or [ResearchGate](https://www.researchgate.net/profile/Giorgi-Tskhondia) for the specifics of the models and algorithms I use. 
 
 To keep up to date with the project please check [Gigala](https://gigala.io/) page or check [UVP](https://github.com/gigatskhondia/ocean_intella/blob/main/docs/pdfs/Gigala_5.8.pdf). 
 

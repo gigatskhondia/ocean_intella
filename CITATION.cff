@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: Ocean Intella
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Giorgi
+    family-names: Tskhondia
+    email: gigatskhondia@gmail.com
+    affiliation: Independent researcher
+identifiers:
+  - type: url
+    value: 'https://gigatskhondia.medium.com/'
+    description: Medium blog about my project's developments.
+  - type: url
+    value: 'https://www.researchgate.net/profile/Giorgi-Tskhondia'
+    description: My ResearchGate profile.
+repository-code: 'https://github.com/gigatskhondia/ocean_intella'
+abstract: >-
+  Open source software for offshore pipelay dynamics.
+keywords:
+  - Subsea pipeline installation analysis
+  - Finite element analysis
+  - Structural engineering
+  - Dynamics of offshore structures
+  - CFD
+license: MIT
+date-released: '2024-09-20'

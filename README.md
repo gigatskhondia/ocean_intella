@@ -4,7 +4,8 @@ At present, the software includes the following models:
 * OTEC pipe 
 * PDE pipe 
 * Pipelay profile optimization
-* Robotic pipe 
+* Robotic pipe
+* Quacking dolphin (LLM Agent to perform static pipelay analysis)
 
 Please check my [Blog](https://gigatskhondia.medium.com/) or [ResearchGate](https://www.researchgate.net/profile/Giorgi-Tskhondia) for the specifics of the models and algorithms I use. 
 

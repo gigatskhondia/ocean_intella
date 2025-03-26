@@ -2,4 +2,3 @@ __pycache__/
 .idea/
 .ipynb_checkpoints
 .DS_Store
-quacking_dolphin/config.py

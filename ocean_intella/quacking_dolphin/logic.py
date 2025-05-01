@@ -158,7 +158,6 @@ def get_static_pipelay_res(ODs, ts, Es, SMYS, rho_s, tFBE, rhoFBE, tconc, rho_co
     sigmaPTb = Es / RB * ODs / 2
     sigmaPT = sigmaPTa + sigmaPTb
     # print(sigmaPT/SMYS)
-
     # Total tensioner requirements to recover pipe onboard
     Ttens_tonnef = Ttens / 1000 * 0.1019716213  # [tonnef]
 

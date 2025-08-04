@@ -11,7 +11,7 @@ At present, the software includes the following models:
 
 Please check my [Blog](https://gigatskhondia.medium.com/) or [ResearchGate](https://www.researchgate.net/profile/Giorgi-Tskhondia) for the specifics of the models and algorithms I use. 
 
-To keep up to date with the project please check [Gigala](https://gigala.io/) page or check [UVP](https://gigala.io/pdfs/Gigala_5.11.pdf). 
+To keep up to date with the project please check [Gigala](https://gigala.io/) page. 
 
 #### If you like my project and want to support it, please consider doing any of the following: ####
 * Star this project

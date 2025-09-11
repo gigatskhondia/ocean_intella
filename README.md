@@ -1,4 +1,4 @@
-# Open source software for dynamics of offshore pipelay
+## Ocean Intella (Open source software for dynamics of offshore pipelay)
 
 This is a software for modelling offshore pipelaying dynamics. It is mainly oriented for research purposes, but can also (partly) be used for feasibility studies in real projects.  
 

@@ -92,7 +92,8 @@ def static_pipe_lay(ODs,ts ,Es, SMYS,rho_s ,tFBE ,rhoFBE,tconc, rho_conc,
     # print(sigmaPT/SMYS)
 
     # Total tensioner requirements to recover pipe onboard
-    Ttens_tonnef = Ttens/1000*0.1019716213 # [tonnef]
+    Ttens_tonnef = Ttens/(1000*9.80665) # [kN]
+#     Ttens_tonnef = Ttens/1000*0.1019716213 # [kN]
 
     # Steel stress at touchdown, aim for < 60%
     TTS_ratio = sigmaTD/SMYS

@@ -9,6 +9,13 @@ At present, the software includes the following models:
 * Robotic pipe
 * Quacking dolphin (LLM Agent to perform static pipelay analysis)
 
+Philosophy of the software:
+* free (accessibility)
+* open source (full customization)
+* practical performance on your PC (low carbon footprint)
+* developed in Python (widespread)
+* use AI (modern)
+
 Please check my [Blog](https://gigatskhondia.medium.com/) or [ResearchGate](https://www.researchgate.net/profile/Giorgi-Tskhondia) for the specifics of the models and algorithms I use. 
 
 To keep up to date with the project please check [Gigala](https://gigala.io/) page. 

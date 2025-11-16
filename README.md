@@ -12,7 +12,8 @@ At present, the software includes the following models:
 
 Pipelay simulation: 
 
-https://github.com/user-attachments/assets/d8590086-121e-43fd-91de-c88978d2dad1
+https://github.com/user-attachments/assets/77027d48-85b3-42ce-aadd-36f4ef466877
+
 
 
 Philosophy of the software:

@@ -9,6 +9,12 @@ At present, the software includes the following models:
 * Robotic pipe
 * Quacking dolphin (LLM Agent to perform static pipelay analysis)
 
+
+Pipelay simulation: 
+
+https://github.com/user-attachments/assets/d8590086-121e-43fd-91de-c88978d2dad1
+
+
 Philosophy of the software:
 * free (accessibility)
 * open source (full customization)

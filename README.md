@@ -10,7 +10,7 @@ At present, the software includes the following models:
 * Quacking dolphin (LLM Agent to perform static pipelay analysis)
 
 
-Pipelay simulation: 
+Pipelay dynamics simulation: 
 
 https://github.com/user-attachments/assets/77027d48-85b3-42ce-aadd-36f4ef466877
 

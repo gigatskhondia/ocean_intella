@@ -7,7 +7,7 @@ At present, the software includes the following models:
 * PDE pipe 
 * Pipelay profile optimization
 * Robotic pipe
-* Quacking dolphin (LLM Agent to perform static pipelay analysis)
+* Quacking Dolphin (LLM Agent to perform static pipelay analysis)
 
 
 Pipelay dynamics simulation: 
@@ -22,6 +22,12 @@ Philosophy of the software:
 * practical performance on your PC (low carbon footprint)
 * developed in Python (widespread)
 * use AI (modern)
+
+Static pipelay analysis with Quacking Dolphin:
+
+https://github.com/user-attachments/assets/14cb2ce3-c867-4904-850c-eaec8d520684
+
+
 
 Please check my [Blog](https://gigatskhondia.medium.com/) or [ResearchGate](https://www.researchgate.net/profile/Giorgi-Tskhondia) for the specifics of the models and algorithms I use. 
 

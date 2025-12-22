@@ -29,7 +29,7 @@ https://github.com/user-attachments/assets/14cb2ce3-c867-4904-850c-eaec8d520684
 
 
 
-Please check my [Blog](https://gigatskhondia.medium.com/) or [ResearchGate](https://www.researchgate.net/profile/Giorgi-Tskhondia) for the specifics of the models and algorithms I use. 
+Please check my [Blog](https://gigatskhondia.medium.com/) or [ResearchGate](https://www.researchgate.net/publication/372588329_Offshore_engineering) for the specifics of the models and algorithms I use. 
 
 To keep up to date with the project please check [Gigala](https://gigala.io/) page. 
 

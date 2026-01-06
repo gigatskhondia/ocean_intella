@@ -1,6 +1,6 @@
 ## Ocean Intella (Open source software for dynamics of offshore pipelay)
 
-Ocean Intella is a software for modelling offshore pipelaying statics and dynamics. It is mainly oriented for research purposes, but can also be used for estimating feasibility of real projects.  
+Ocean Intella is a software for modelling offshore pipelaying statics and dynamics. It is mainly oriented for research purposes, but also can be used for estimating feasibility of real projects.  
 
 At present, the software includes the following models:
 * OTEC pipe (renewables)
@@ -9,13 +9,6 @@ At present, the software includes the following models:
 * Robotic pipe
 * Quacking Dolphin (LLM Agent to perform static pipelay analysis)
 
-
-Pipelay dynamics simulation: 
-
-https://github.com/user-attachments/assets/77027d48-85b3-42ce-aadd-36f4ef466877
-
-
-
 Philosophy of the software:
 * free (accessibility)
 * open source (full customization)
@@ -23,13 +16,11 @@ Philosophy of the software:
 * developed in Python (widespread)
 * use AI (modern)
 
-Static pipelay analysis with Quacking Dolphin:
+Please check my [Blog](https://gigatskhondia.medium.com/) and [ResearchGate](https://www.researchgate.net/publication/372588329_Offshore_engineering) for the specifics of the models and algorithms I use. 
 
-https://github.com/user-attachments/assets/14cb2ce3-c867-4904-850c-eaec8d520684
+Pipelay dynamics simulation: 
 
-
-
-Please check my [Blog](https://gigatskhondia.medium.com/) or [ResearchGate](https://www.researchgate.net/publication/372588329_Offshore_engineering) for the specifics of the models and algorithms I use. 
+https://github.com/user-attachments/assets/77027d48-85b3-42ce-aadd-36f4ef466877
 
 To keep up to date with the project please check [Gigala](https://gigala.io/) page. 
 

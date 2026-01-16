@@ -22,6 +22,10 @@ Pipelay dynamics simulation:
 
 https://github.com/user-attachments/assets/77027d48-85b3-42ce-aadd-36f4ef466877
 
+Verification table for OTEC pipe model (peak deflection):
+<img width="321" height="49" alt="OTEC" src="https://github.com/user-attachments/assets/60bd2cdd-3ac6-4c48-8404-102ad7488b30" />
+
+
 To keep up to date with the project please check [Gigala](https://gigala.io/) page. 
 
 #### If you like my project and want to support it, please consider doing any of the following: ####

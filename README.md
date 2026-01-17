@@ -26,7 +26,7 @@ https://github.com/user-attachments/assets/77027d48-85b3-42ce-aadd-36f4ef466877
 Verification table for OTEC pipe model (peak deflection):
 <table>
   <tr>
-  <td><img width="330" height="54" alt="OTEC" src="https://github.com/user-attachments/assets/f7cdd68c-e41b-4d68-a008-09415dd88353" /></td>
+  <td><img width="719" height="84" alt="OTEC_2" src="https://github.com/user-attachments/assets/bdf87366-6d80-46d9-98c7-e06acfe41d81" /></td>
   </tr>
 </table>
 

@@ -37,6 +37,13 @@ Verification table for PDE pipe model:
   </tr>
 </table>
 
+Verification table for Robotic pipe model:
+<table>
+  <tr>
+  <td><img width="921" height="287" alt="robotic" src="https://github.com/user-attachments/assets/c070ae75-00f2-4d64-8997-c53f39c72bac" /></td>
+  </tr>
+</table>
+
 To keep up to date with the project please check [Gigala](https://gigala.io/) page. 
 
 #### If you like my project and want to support it, please consider doing any of the following: ####

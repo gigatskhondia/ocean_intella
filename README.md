@@ -30,6 +30,13 @@ Verification table for OTEC pipe model (peak deflection):
   </tr>
 </table>
 
+Verification table for PDE pipe model:
+<table>
+  <tr>
+  <td><img width="903" height="295" alt="PDE" src="https://github.com/user-attachments/assets/5a7d5fdf-524d-45c2-8e0b-90c67b4624f6" /></td>
+  </tr>
+</table>
+
 To keep up to date with the project please check [Gigala](https://gigala.io/) page. 
 
 #### If you like my project and want to support it, please consider doing any of the following: ####

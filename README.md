@@ -40,7 +40,7 @@ Verification table for PDE pipe model:
 Verification table for Robotic pipe model:
 <table>
   <tr>
-  <td><img width="573" height="184" alt="robotic_v2" src="https://github.com/user-attachments/assets/8fc093dd-918a-4e23-ad5a-d35d9bb14de8" /></td>
+  <td><img width="1025" height="319" alt="robotic_v2b" src="https://github.com/user-attachments/assets/b54a7d2b-41f0-4cd8-a732-782d039936b4" /></td>
   </tr>
 </table>
 

@@ -1,6 +1,6 @@
 ## Ocean Intella (Open source software for dynamics of offshore pipelay)
 
-Ocean Intella is a software for modelling offshore pipelaying statics and dynamics. It is mainly oriented for research purposes, but also can be used for estimating feasibility of real projects.  
+Ocean Intella is a software for modelling offshore pipelaying statics and dynamics (including waves and currents). It is mainly oriented for research purposes, but also can be used for estimating feasibility of real projects.  
 
 At present, the software includes the following models:
 * OTEC pipe (renewables)

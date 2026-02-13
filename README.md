@@ -4,7 +4,7 @@ Ocean Intella is a software for modelling offshore pipelaying statics and dynami
 
 At present, the software includes the following models:
 * OTEC pipe (renewables)
-* PDE pipe 
+* PDE pipe (6 DoF)
 * Pipelay profile optimization
 * Robotic pipe
 * Quacking Dolphin (LLM Agent to perform static pipelay analysis)

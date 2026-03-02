@@ -33,14 +33,14 @@ Verification table for OTEC pipe model (peak deflection):
 Verification table for PDE pipe model:
 <table>
   <tr>
-  <td><img width="903" height="295" alt="PDE" src="https://github.com/user-attachments/assets/5a7d5fdf-524d-45c2-8e0b-90c67b4624f6" /></td>
+  <td><img width="1003" height="326" alt="Screenshot 2026-03-02 at 19 50 10" src="https://github.com/user-attachments/assets/53bd8e22-0342-4a57-897e-648d3f8dd38b" /></td>
   </tr>
 </table>
 
 Verification table for Robotic pipe model:
 <table>
   <tr>
-  <td><img width="1025" height="319" alt="robotic_v2b" src="https://github.com/user-attachments/assets/b54a7d2b-41f0-4cd8-a732-782d039936b4" /></td>
+  <td><img width="1026" height="322" alt="Screenshot 2026-03-02 at 19 53 35" src="https://github.com/user-attachments/assets/3436a83d-60aa-4a83-a0a7-0675db64a6d3" /></td>
   </tr>
 </table>
 

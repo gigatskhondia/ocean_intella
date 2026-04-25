@@ -16,7 +16,7 @@ Design philosophy:
 * Python-native — built for the research community
 * AI-first — not bolted on, built in
 
-[Blog](https://gigatskhondia.medium.com/) · [ResearchGate](https://www.researchgate.net/publication/372588329_Offshore_engineering)
+→ [Blog](https://gigatskhondia.medium.com/) · [ResearchGate](https://www.researchgate.net/publication/372588329_Offshore_engineering)
  
 
 https://github.com/user-attachments/assets/77027d48-85b3-42ce-aadd-36f4ef466877
@@ -43,9 +43,10 @@ Verification table for Robotic pipe model:
   </tr>
 </table>
 
-To keep up to date with the project please check [Gigala](https://gigala.io/) page. 
+→ Follow the project: [Ocean Intella](https://gigala.io/)
 
-#### If you like my project and want to support it, please consider doing any of the following: ####
-* Star this project
-* [Sponsor](https://www.paypal.me/gigatskhondia) this project 
-* [Contact](https://gigala.io/) me to provide feedback or if you would like to collaborate
+If Ocean Intella is useful to you:
+
+- ⭐ Star this repo
+- [Sponsor](https://www.paypal.me/gigatskhondia) the project
+- [Get in touch](https://gigala.io/) — feedback and collaborations welcome

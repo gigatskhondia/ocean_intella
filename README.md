@@ -18,7 +18,6 @@ Design philosophy:
 
 [Blog](https://gigatskhondia.medium.com/) · [ResearchGate](https://www.researchgate.net/publication/372588329_Offshore_engineering)
  
-Pipelay dynamics simulation: 
 
 https://github.com/user-attachments/assets/77027d48-85b3-42ce-aadd-36f4ef466877
 

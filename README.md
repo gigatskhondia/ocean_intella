@@ -2,22 +2,22 @@
 
 Ocean Intella is the first AI-native platform for offshore structural analysis and pipelaying statics and dynamics under real sea conditions — waves, currents, and seabed interaction. While legacy tools treat simulation as a black box, Ocean Intella combines PDE-based pipe modeling with  reinforcement learning and genetic algorithms — open, transparent, and built for the next generation of offshore engineering research and feasibility analysis.
 
-At present, the software includes the following models:
-* OTEC pipe (renewables)
+Models included:
+* OTEC pipe (renewable energy infrastructure)
 * PDE pipe (6 DoF)
 * Pipelay profile optimization
 * Robotic pipe
 * Quacking Dolphin (LLM Agent to perform static pipelay analysis)
 
-Philosophy of the software:
-* free (accessibility)
-* open source (full customization)
-* practical performance on your PC (low carbon footprint)
-* developed in Python (widespread)
-* use AI (modern)
+Design philosophy:
+* Open source — fully customizable, no black boxes
+* Open access — no license fees, no institutional barriers
+* Runs on your laptop — practical performance, low carbon footprint
+* Python-native — built for the research community
+* AI-first — not bolted on, built in
 
-Please check my [Blog](https://gigatskhondia.medium.com/) and [ResearchGate](https://www.researchgate.net/publication/372588329_Offshore_engineering) for the specifics of the models and algorithms I use. 
-
+[Blog](https://gigatskhondia.medium.com/) · [ResearchGate](https://www.researchgate.net/publication/372588329_Offshore_engineering)
+ 
 Pipelay dynamics simulation: 
 
 https://github.com/user-attachments/assets/77027d48-85b3-42ce-aadd-36f4ef466877

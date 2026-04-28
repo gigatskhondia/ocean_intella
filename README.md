@@ -1,6 +1,6 @@
 ## Ocean Intella (Open source software for 2D/3D offshore structural analysis and pipelay dynamics)
 
-Ocean Intella is the first AI-native platform for offshore structural analysis and pipelaying statics and dynamics under real sea conditions — waves, currents, and seabed interaction. While legacy tools treat simulation as a black box, Ocean Intella combines PDE-based pipe modeling with  reinforcement learning and genetic algorithms — open, transparent, and built for the next generation of offshore engineering research and feasibility analysis.
+Ocean Intella is a platform for offshore structural analysis and pipelaying statics and dynamics under real sea conditions — waves, currents, and seabed interaction. While legacy tools treat simulation as a black box, Ocean Intella combines PDE-based pipe modeling, and genetic algorithms — open, transparent, and built for the next generation of offshore engineering research and feasibility analysis.
 
 Models included:
 * OTEC pipe (renewable energy infrastructure)

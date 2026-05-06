@@ -7,6 +7,7 @@ Models included:
 * PDE pipe (6 DoF)
 * Pipelay profile optimization
 * Robotic pipe
+* Offshore platforms (estimates)
 * Quacking Dolphin (LLM Agent to perform static pipelay analysis)
 
 Design philosophy:

@@ -15,7 +15,6 @@ Design philosophy:
 * Open access — no license fees, no institutional barriers
 * Runs on your laptop — practical performance, low carbon footprint
 * Python-native — built for the research community
-* AI-first — not bolted on, built in
 
 → [Blog](https://gigatskhondia.medium.com/) · [ResearchGate](https://www.researchgate.net/publication/372588329_Offshore_engineering)
  

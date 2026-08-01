@@ -4,7 +4,6 @@ Ocean Intella is a platform for offshore structural analysis and pipelaying stat
 
 Models included:
 * OTEC pipe (renewable energy infrastructure)
-* PDE pipe (6 DoF)
 * Pipelay profile optimization
 * Robotic pipe
 * Offshore platforms (estimates)
@@ -16,7 +15,7 @@ Design philosophy:
 * Runs on your laptop — practical performance, low carbon footprint
 * Python-native — built for the research community
 
-→ [Blog](https://gigatskhondia.medium.com/) · [ResearchGate](https://www.researchgate.net/publication/372588329_Offshore_engineering)
+→ [Blog](https://gigatskhondia.medium.com/) · [ResearchGate](https://www.researchgate.net/publication/372588329_Ocean_Intella)
  
 
 https://github.com/user-attachments/assets/77027d48-85b3-42ce-aadd-36f4ef466877
@@ -29,12 +28,6 @@ Verification table for OTEC pipe model (peak deflection):
   </tr>
 </table>
 
-Verification table for PDE pipe model:
-<table>
-  <tr>
-  <td><img width="1003" height="326" alt="Screenshot 2026-03-02 at 19 50 10" src="https://github.com/user-attachments/assets/53bd8e22-0342-4a57-897e-648d3f8dd38b" /></td>
-  </tr>
-</table>
 
 Verification table for Robotic pipe model:
 <table>

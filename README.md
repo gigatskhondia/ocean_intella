@@ -8,6 +8,7 @@ Models included:
 * Robotic pipe
 * Offshore platforms (estimates)
 * Quacking Dolphin (LLM Agent to perform static pipelay analysis)
+* PDE pipe (6 DoF)
 
 Design philosophy:
 * Open source — fully customizable, no black boxes
@@ -33,6 +34,14 @@ Verification table for Robotic pipe model:
 <table>
   <tr>
   <td><img width="1026" height="322" alt="Screenshot 2026-03-02 at 19 53 35" src="https://github.com/user-attachments/assets/3436a83d-60aa-4a83-a0a7-0675db64a6d3" /></td>
+  </tr>
+</table>
+
+
+Verification table for PDE pipe model:
+<table>
+  <tr>
+  <td><img width="1003" height="326" alt="Screenshot 2026-03-02 at 19 50 10" src="https://github.com/user-attachments/assets/53bd8e22-0342-4a57-897e-648d3f8dd38b" /></td>
   </tr>
 </table>
 

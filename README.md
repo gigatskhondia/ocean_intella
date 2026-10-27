@@ -10,6 +10,7 @@ Models included:
 * Quacking Dolphin (LLM Agent to perform static pipelay analysis)
 * PDE pipe (6 DoF)
 * Davit lifting (experimental)
+* Tandem lifting (experimental)
 
 Design philosophy:
 * Open source — fully customizable, no black boxes

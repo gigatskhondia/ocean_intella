@@ -11,6 +11,7 @@ Models included:
 * PDE pipe (6 DoF)
 * Davit lifting (experimental)
 * Tandem lifting (experimental)
+* S-lay with stinger (experimental)
 
 Design philosophy:
 * Open source — fully customizable, no black boxes

@@ -13,7 +13,6 @@ Models included:
 Experimental:  
 * Davit lifting 
 * Tandem lifting 
-* S-lay with a stinger 
 
 Design philosophy:
 * Open source — fully customizable, no black boxes

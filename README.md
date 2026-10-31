@@ -9,9 +9,11 @@ Models included:
 * Offshore platforms (estimates)
 * Quacking Dolphin (LLM Agent to perform static pipelay analysis)
 * PDE pipe (6 DoF)
-* Davit lifting (experimental)
-* Tandem lifting (experimental)
-* S-lay with stinger (experimental)
+
+Experimental:  
+* Davit lifting 
+* Tandem lifting 
+* S-lay with a stinger 
 
 Design philosophy:
 * Open source — fully customizable, no black boxes

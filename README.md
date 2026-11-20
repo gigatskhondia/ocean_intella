@@ -5,7 +5,7 @@ Ocean Intella is a software for offshore structural analysis and pipelaying stat
 Models included:
 * OTEC pipe (renewable energy infrastructure)
 * Pipelay profile optimization
-* Robotic pipe
+* Robotic pipe (S-lay, J-lay)
 * Offshore platforms (estimates)
 * Quacking Dolphin (LLM Agent to perform static pipelay analysis)
 * PDE pipe (6 DoF)

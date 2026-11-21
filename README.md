@@ -12,7 +12,8 @@ Models included:
 
 Experimental:  
 * Davit lifting 
-* Tandem lifting 
+* Tandem lifting
+* Nonlinear pipelay (realistic BC) 
 
 Design philosophy:
 * Open source — fully customizable, no black boxes

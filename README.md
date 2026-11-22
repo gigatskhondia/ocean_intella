@@ -16,7 +16,7 @@ Experimental models:
 * Davit lifting 
 * Tandem lifting
 * Nonlinear pipelay (realistic BC)
-* A&R,initiation
+* A&R, initiation
 
 Design philosophy:
 * Open source — fully customizable, no black boxes

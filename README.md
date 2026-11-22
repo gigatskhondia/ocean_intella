@@ -2,7 +2,7 @@
 
 Ocean Intella is a software for offshore structural analysis and pipelaying statics and dynamics under real sea conditions — waves, currents, and seabed interaction. While legacy tools treat simulation as a black box, Ocean Intella combines  differential equation based pipelay modeling, and genetic algorithms — open, transparent, and built for the next generation of offshore engineering research and feasibility analysis.
 
-Software capabilities include: rigid pipelay; umbilicals installation; lifting (including tandem lifting); static davit-lifting analyses; riser installations; estimates for wave loads on offshore platforms; automatic selection (optimization) for the pipelaying profile; graphical user interface via GenAI for static pipelay; renewables modelling; pipelay initiation, abandonment and recovery analyses. 
+Software capabilities include: rigid pipelay; umbilicals installation; lifting (including tandem lifting); static davit-lifting analyses; riser installations; estimates for wave loads on offshore platforms; automatic selection (optimization) for pipelaying profile; graphical user interface via GenAI for static pipelay; renewables modelling; pipelay initiation, abandonment and recovery analyses. 
 
 Models:
 * OTEC pipe (renewable energy infrastructure)
